@@ -2,6 +2,7 @@
 This is a web based apllication for fashion related based website in india 
 ## This web based fashion application has been developed for the accomplishment of future ready talent internship program launched by microsoft , future skills prime quess github and Ey.
 ** project link** - https://wonderful-water-09c004f00.4.azurestaticapps.net
+
 ** project demo video link**- https://drive.google.com/file/d/1XOLlKv8vz3lfU0kLnM4Scu_YwGvaEUdi/view?usp=sharing
 ## features and funtionalities 
 - interactive and responsive UI.
