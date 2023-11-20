@@ -6,8 +6,7 @@ This is a web based apllication for fashion related based website in india
 ** project demo video link**- https://drive.google.com/file/d/1XOLlKv8vz3lfU0kLnM4Scu_YwGvaEUdi/view?usp=sharing
 ## features and funtionalities 
 - interactive and responsive UI.
-- has many graphical and <img width="960" alt="Screenshot 2023-11-21 001053" src="https://github.com/varaarav/microsoft-project/assets/115352480/b4390365-a456-4d15-8f11-3c9fbd37bb91">
-visiual effects.
+- has many graphical and visiual effects.
 - has colletion of many webpages including Home, About us, contact, Menu ect..
 - user can know about fashion info through this website.
   ## screenshots.
