@@ -21,9 +21,9 @@ OUR SERVICES
 <img width="939" alt="Screenshot 2023-11-06 205052" src="https://github.com/varaarav/microsoft-project/assets/115352480/44449cfe-303e-4e37-b6ed-28284016970a">
 DROP DOWN
 <img width="940" alt="Screenshot 2023-11-06 205119" src="https://github.com/varaarav/microsoft-project/assets/115352480/d69755f3-a917-4f9c-a13d-5faf5bc24486">
-Static Web Page
+AZURE BOT SERVICES
 <img width="960" alt="Screenshot 2023-11-21 001053" src="https://github.com/varaarav/microsoft-project/assets/115352480/3f33cb55-a508-47ef-a21e-68696e84fda7">
-Azure Bot Services
+STATIC WEB PAGES
 <img width="943" alt="Screenshot 2023-11-21 000958" src="https://github.com/varaarav/microsoft-project/assets/115352480/54dbb2db-2d11-4a1a-ba1b-37d4c156bfb4">
 
 
